@@ -1,6 +1,7 @@
 # Design Pattern
 
-Introduction
+Introduction:
+
 Design patterns are very popular among software developers. A design pattern is a well-described solution to a common software problem.
 
 Some of the benefits of using design patterns are:
